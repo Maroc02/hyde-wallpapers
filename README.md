@@ -6,6 +6,6 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br></div>
 
 # Theme Gallery Wallpapers
-A curated collection of wallpapers from the [HyDE Project](https://github.com/HyDE-Project/HyDE), brought together in one place and organized by individual themes.
+A curated collection of wallpapers from [HyDe](https://github.com/HyDE-Project/HyDE)/[Hyprdots](https://github.com/prasanthrangan/hyprdots), brought together in one place and organized by individual themes.
 
-👉 Explore the full gallery [here](https://github.com/HyDE-Project/hyde-gallery).
+👉 Explore the full theme gallery [here](https://github.com/HyDE-Project/hyde-gallery).
